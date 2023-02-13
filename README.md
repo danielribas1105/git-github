@@ -33,3 +33,12 @@ Commit em todos os arquivos:
 ````
 git commit . -m "mensagem de alteração"
 ````
+
+Restore commit:
+
+````
+git restore --source "hash da modificação" .
+````
+
+
+
