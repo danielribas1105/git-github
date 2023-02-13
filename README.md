@@ -27,3 +27,9 @@ Trazer as alterações realizadas para o reposiótio local(sincrinizar):
 ````
 git pull
 ````
+
+Commit em todos os arquivos:
+
+````
+git commit . -m "mensagem de alteração"
+````
