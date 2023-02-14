@@ -62,6 +62,14 @@ Unificar os códigos - merge (estando na branch main):
 git merge <nome-da-branch>
 ````
 
+Após o merge utilizar o push:
+
+````
+git push origin main
+````
+
+
+
 
 
 
