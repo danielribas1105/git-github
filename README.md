@@ -40,5 +40,31 @@ Restore commit:
 git restore --source "hash da modificação" .
 ````
 
+> Branch
+
+Criar uma nova branch:
+
+````
+git branch -b <nome-da-branch>
+````
+
+Trocar entre as branchs:
+
+````
+git switch
+````
+
+> Merge
+
+Unificar os códigos - merge (estando na branch main):
+
+````
+git merge <nome-da-branch>
+````
+
+
+
+
+
 
 
